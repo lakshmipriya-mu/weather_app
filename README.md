@@ -5,6 +5,6 @@
 
 -> Minimum OS: 14.0 
 
-## Screen shot
+## Screenshot
 
 ![alt text](screen_shot.png)
